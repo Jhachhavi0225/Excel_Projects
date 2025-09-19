@@ -27,7 +27,7 @@ Based on your metrics, here are potential insights your dashboard reveals:
  * ☕ Category Performance: Beverages dominate transaction
 
 ---
-## 👩‍💻 Developed by *Jhachhavi*
+## 👩‍💻 Developed by *Chhavi_Jha*
       Data Analyst | Visual Storyteller 
 ---
 
