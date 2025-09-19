@@ -1,5 +1,4 @@
-# ☕ COFFEE SHOP SALES DASHBOARD  
-
+# ☕ Coffee Shop Sales Dashboard | 
 # 💻 Excel Dashboard Snapshot 
 <img width="1372" height="695" alt="correct one " src="https://github.com/user-attachments/assets/1ed71ebc-cb30-4811-a8e2-25a7c4f27542" /> 
 
