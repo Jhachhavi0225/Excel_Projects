@@ -25,3 +25,9 @@ Based on your metrics, here are potential insights your dashboard reveals:
  * 📈 Consistent Performance: Relatively stable monthly transactions
  * 🏙️ Geographical Focus: Chicago shows strong revenue performance
  * ☕ Category Performance: Beverages dominate transaction
+
+---
+## 👩‍💻 Developed by *Jhachhavi*
+      Data Analyst | Visual Storyteller 
+---
+
